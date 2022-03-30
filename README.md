@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me!]()
+- Solution URL: [Click Me!](https://www.frontendmentor.io/solutions/interactive-rating-card-using-javascript-SyWXQZM75)
 - Live Site URL: [Click Me!](https://subhajitroycode.github.io/interactive-rating-card/)
 
 ## My process
