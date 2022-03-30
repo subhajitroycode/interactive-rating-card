@@ -14,7 +14,7 @@ $bg-size: 50px;
 %icon-bg {
   width: $bg-size;
   height: $bg-size;
-  background-color: darken(colors.$light-grey, 30%);
+  background-color: transparentize(colors.$light-grey, 0.9);
   display: flex;
   justify-content: center;
   align-items: center;
